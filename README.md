@@ -85,3 +85,6 @@ Endpoint: https://pixabay.com/api/
 --Styling--
 The app uses Tailwind CSS v4 with the Vite plugin for styling. 
 
+--Live Demo  --
+Click here to view the live site
+(https://jayeshgawali205.github.io/SnapSearch-image-search-app/)

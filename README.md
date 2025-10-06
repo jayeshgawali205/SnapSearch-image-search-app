@@ -1,4 +1,5 @@
-Photo Gallery App
+SnapSearch: A Live Image Search App
+
 A modern, responsive image search application built with React and Vite that allows users to search and browse photos using the Pixabay API.
 
 --Features--
@@ -26,7 +27,7 @@ Pixabay API Key (free from Pixabay)
 --Installation--
 
 1.Clone the repository
-    git clone <your-repository-url>
+    git clone (https://github.com/jayeshgawali205/SnapSearch-image-search-app)
     cd gallary
 
 2.Install dependencies

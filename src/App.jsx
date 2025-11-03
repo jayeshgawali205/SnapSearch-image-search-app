@@ -7,7 +7,7 @@ function App() {
     const [isLoading, setIsLoading] = useState(true);
     const [term, setTerm] = useState("");
 
-    useEffect(() => {
+    useEffect(() => { 
         fetch(
             `https://pixabay.com/api/?key=${
                 import.meta.env.VITE_PIXABAY_API_KEY
